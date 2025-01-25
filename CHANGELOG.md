@@ -1,6 +1,6 @@
 # Changelog  
 
-## [0.1.1] - 2025-01-24  
+## [1.1.alpha] - 2025-01-24  
 ### Added  
 - Alpha build published.
 - Added Privacy Policy Page.
@@ -14,7 +14,7 @@
 
 ---
 
-## [0.1.2] - 2025-01-25 
+## [1.2-alpha] - 2025-01-25 
 ### Fixed  
 - Resolved an issue with the mobile layout breaking on smaller screens.  
 - Fixed a typo on the home page banner. 
