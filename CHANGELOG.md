@@ -1,5 +1,9 @@
 # Changelog  
 
+## [1.3-alpha] - 2025-01-25
+### Fixed
+- nightly-build to fix duplicate mission statement and vision statement
+
 ## [1.2-alpha] - 2025-01-25 
 ### Fixed  
 - Resolved an issue with the mobile layout breaking on smaller screens.  
