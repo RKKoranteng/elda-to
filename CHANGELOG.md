@@ -1,5 +1,12 @@
 # Changelog  
 
+## [1.2-alpha] - 2025-01-25 
+### Fixed  
+- Resolved an issue with the mobile layout breaking on smaller screens.  
+- Fixed a typo on the home page banner. 
+
+---
+
 ## [1.1.alpha] - 2025-01-24  
 ### Added  
 - Alpha build published.
@@ -13,8 +20,3 @@
 - Fixed a bug where the footer and sitemap format were incorrect.
 
 ---
-
-## [1.2-alpha] - 2025-01-25 
-### Fixed  
-- Resolved an issue with the mobile layout breaking on smaller screens.  
-- Fixed a typo on the home page banner. 
