@@ -4,6 +4,7 @@
 ### Fixed  
 - Resolved an issue with the mobile layout breaking on smaller screens.  
 - Fixed a typo on the home page banner. 
+- smoke-test
 
 ---
 
