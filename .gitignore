@@ -1,0 +1,9 @@
+# general
+*.tmp
+
+# vagrant specific files
+.vagrant
+vagrant/*.log
+
+# draw.io specific
+*.drawio.bkp
