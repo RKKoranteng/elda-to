@@ -110,6 +110,7 @@
   width: 380px;
   height: 507px;
   --bottom-left-radius: 10px;
+  object-position: 78.25% 50%;
   margin: -562px 20px 6px auto;
 }
 
@@ -351,6 +352,7 @@
 
 .u-section-2 .u-btn-2 {
   font-weight: 500;
+  font-size: 1rem;
   margin: 30px auto 0 0;
   padding: 0;
 }

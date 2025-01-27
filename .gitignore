@@ -6,4 +6,4 @@
 vagrant/*.log
 
 # draw.io specific
-*.drawio.bkp
+draw.io/*.bkp

@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="color" id="-x-X-_2niC6N0YVN-m3H">
+    <mxGraphModel dx="954" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-8fzxE3oZypZm3eX1mNs-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/world_www_web_website-128.png;imageBorder=none;fontColor=default;rotation=0;imageBackground=none;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="427" y="162.5" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-8fzxE3oZypZm3eX1mNs-2" value="&lt;font color=&quot;#a37fdf&quot; size=&quot;1&quot; face=&quot;Ubuntu&quot; style=&quot;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Ubuntu&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;elda-t&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="167" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
