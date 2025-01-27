@@ -1,0 +1,24 @@
+name: 🐞 Bug Report
+description: File a bug/issue
+title: "Issue: "
+labels: ["bug", "triage"]
+assignees: "rkkoranteng"
+projects: "RKKoranteng/29"
+body:
+     
+  - type: textarea
+    id: Issue
+    attributes:
+      label: Issue
+      value: |
+        ### Isssue 
+
+
+        ### Cause
+        
+        
+        ### Solution
+
+
+    validations:
+      required: true
