@@ -1,7 +1,9 @@
 name: 🐞 Bug Report
 description: File a bug/issue
-title: "[Bug]: <title>"
+title: "Bug: <title>"
 labels: ["bug", "triage"]
+assignees: "rkkoranteng"
+projects: "RKKoranteng/29"
 body:
   - type: markdown
     attributes:
