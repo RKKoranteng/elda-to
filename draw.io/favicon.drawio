@@ -1,0 +1,16 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="favicon" id="OPXo733A4RmniEwm26v5">
+    <mxGraphModel dx="954" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="5h8krlXthXOnOWHfUeTl-0" />
+        <mxCell id="5h8krlXthXOnOWHfUeTl-1" parent="5h8krlXthXOnOWHfUeTl-0" />
+        <mxCell id="5h8krlXthXOnOWHfUeTl-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;rotation=0;fillColor=#A37FDF;strokeColor=#A37FDF;" vertex="1" parent="5h8krlXthXOnOWHfUeTl-1">
+          <mxGeometry x="215.19" y="250" width="289.63" height="289.63" as="geometry" />
+        </mxCell>
+        <mxCell id="5h8krlXthXOnOWHfUeTl-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/world_www_web_website-128.png;imageBorder=none;fontColor=default;rotation=0;imageBackground=none;fillStyle=solid;shadow=0;" vertex="1" parent="5h8krlXthXOnOWHfUeTl-1">
+          <mxGeometry x="235.01" y="269.82" width="250" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
