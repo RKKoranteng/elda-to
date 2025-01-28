@@ -2,6 +2,7 @@
 
 ## [alpha]
 ### Fixed
+- 2025.01.27 : Fixed submenu drop-shadow
 - 2025.01.26 : Fixed URL link for all page
 - 2025.01.26 : Fixed contact form HTML attributes
 - 2025.01.25 : nightly-build to fix duplicate mission statement and vision statement
@@ -10,6 +11,7 @@
 - 2025.01.25 : Fixed a bug where the footer and sitemap format were incorrect.
 
 ### Added
+- 2025.01.27 : Added favicon
 - 2025.01.27 : Added logo
 - 2025.01.24 : Alpha build published.
 - 2025.01.24 : Added Privacy Policy Page.
