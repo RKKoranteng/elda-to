@@ -5,7 +5,7 @@
 
 ## [alpha]
 ### Fixed
-- 2025.02.28 : Verified support email 
+- 2025.02.07 : Verified support email 
 - 2025.01.28 : Logo link to redirect to index/home page
 - 2025.01.27 : Fixed submenu drop-shadow
 - 2025.01.26 : Fixed URL link for all page
