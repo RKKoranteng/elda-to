@@ -1,7 +1,7 @@
 # Changelog  
 
 ## [beta]
-- 2025.02.27 : go-live for beta testing
+- 2025.02.07 : go-live for beta testing
 
 ## [alpha]
 ### Fixed
